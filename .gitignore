@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Claude Code (local agent state, may contain secrets)
+.claude/
